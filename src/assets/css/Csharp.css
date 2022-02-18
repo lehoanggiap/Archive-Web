@@ -1,0 +1,9 @@
+.main-body{
+    margin-top: unset;
+}
+.content-container{
+    padding: 12px;
+    height: unset;
+    background-color: var(--content-container-bgr-color);
+    overflow-y: unset;
+}
